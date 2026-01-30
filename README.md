@@ -35,6 +35,7 @@ leetcode-solutions/
 │ ├── median_of_two_sorted_arrays.py
 │ └── trapping_rain_water.py
 
+```text
 ---
 
 ## Easy Problems
