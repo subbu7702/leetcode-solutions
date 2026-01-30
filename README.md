@@ -15,7 +15,7 @@ Total problems solved: **10**
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 leetcode-solutions/
 ├── README.md
@@ -35,7 +35,7 @@ leetcode-solutions/
 
 ---
 
-## 🔹 Easy Problems
+##  Easy Problems
 
 ### 1. Palindrome Number
 
@@ -67,7 +67,7 @@ leetcode-solutions/
 
 ---
 
-## 🔹 Medium Problems
+##  Medium Problems
 
 ### 5. Letter Combinations of a Phone Number
 
@@ -99,7 +99,7 @@ leetcode-solutions/
 
 ---
 
-## 🔹 Hard Problems
+##  Hard Problems
 
 ### 9. Median of Two Sorted Arrays
 
