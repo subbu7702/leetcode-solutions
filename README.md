@@ -15,7 +15,15 @@ Total problems solved: **10**
 
 ---
 
+<<<<<<< HEAD
+
 ## Repository Structure
+
+=======
+
+## Repository Structure
+
+> > > > > > > 912148c626475fdc806eb66c3872bb6cf99d5784
 
 leetcode-solutions/
 ├── README.md
@@ -35,7 +43,15 @@ leetcode-solutions/
 
 ---
 
+<<<<<<< HEAD
+
 ## Easy Problems
+
+=======
+
+## Easy Problems
+
+> > > > > > > 912148c626475fdc806eb66c3872bb6cf99d5784
 
 ### 1. Palindrome Number
 
@@ -67,7 +83,15 @@ leetcode-solutions/
 
 ---
 
+<<<<<<< HEAD
+
 ## Medium Problems
+
+=======
+
+## Medium Problems
+
+> > > > > > > 912148c626475fdc806eb66c3872bb6cf99d5784
 
 ### 5. Letter Combinations of a Phone Number
 
@@ -98,8 +122,6 @@ leetcode-solutions/
 - **Space:** O(1)
 
 ---
-
-## Hard Problems
 
 ### 9. Median of Two Sorted Arrays
 
