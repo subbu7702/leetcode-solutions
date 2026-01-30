@@ -17,7 +17,7 @@ Total problems solved: **10**
 
 ## Repository Structure
 
-'''text
+```text
 
 leetcode-solutions/
 ├── README.md
